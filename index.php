@@ -1,5 +1,5 @@
 <?php
-	$titulo = "Home";
+	$titulo = "Home - hola";
 	require "templates/head.php";
 ?>
 <link rel="stylesheet" type="text/css" href="css/jquery.css" media="screen">
